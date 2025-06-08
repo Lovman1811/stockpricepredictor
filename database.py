@@ -1,5 +1,5 @@
 import sqlite3
-from turtle import st
+from streamlit import st
 
 import pandas as pd
 from io import StringIO
